@@ -2,18 +2,23 @@
 
 Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting **long2short** methods on **large reasoning models**. It contains papers, codes, datasets, evaluations, and analyses.
 
-## Training Free
-
-| Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |                         Tag                        |
-| ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------: |
-| 2025.02 | **TokenSkip: Controllable Chain-of-Thought Compression in LLMs** |   arXiv     | [link](https://arxiv.org/abs/2502.12067) |        [link](https://github.com/hemingkx/TokenSkip)     |![LLM](https://img.shields.io/badge/LLM-589cf4)
-| 2025.02 | **Reward-Guided Speculative Decoding for Efficient LLM Reasoning** |   arXiv     | [link](https://arxiv.org/pdf/2501.19324) |        [link](https://github.com/BaohaoLiao/RSD)      |![LLM](https://img.shields.io/badge/LLM-589cf4)
-| 2025.02 | **LightThinker: Thinking Step-by-Step Compression** |   arXiv     | [link](https://arxiv.org/abs/2502.15589) |        [link](https://github.com/zjunlp/LightThinker)      |![LLM](https://img.shields.io/badge/LLM-589cf4)
-| 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |![LLM](https://img.shields.io/badge/LLM-589cf4)
-
-
-
 ## Training Based
+| Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
+| ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.02 | **TokenSkip: Controllable Chain-of-Thought Compression in LLMs** |   arXiv     | [link](https://arxiv.org/abs/2502.12067) |        [link](https://github.com/hemingkx/TokenSkip)     |
+| 2025.02 | **LightThinker: Thinking Step-by-Step Compression** |   arXiv     | [link](https://arxiv.org/abs/2502.15589) |        [link](https://github.com/zjunlp/LightThinker)      |
+| 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |
+
+
+## Training Free
+| Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
+| ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.02 | **Reward-Guided Speculative Decoding for Efficient LLM Reasoning** |   arXiv     | [link](https://arxiv.org/pdf/2501.19324) |        [link](https://github.com/BaohaoLiao/RSD)      |
+
+
+
+
+
 
 
 
