@@ -5,6 +5,9 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 ## Training Based
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.03 | **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning** | arXiv | [link](https://www.arxiv.org/pdf/2503.04697) | [link](https://github.com/cmu-l3/l1) |
+| 2025.03 | **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching** | arXiv | [link](https://arxiv.org/pdf/2503.05179v1) | [link](https://github.com/SimonAytes/SoT) |
+| 2025.02 | **Self-Training Elicits Concise Reasoning in Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2502.20122) | [link](https://github.com/TergelMunkhbat/concise-reasoning) |
 | 2025.02 | **TokenSkip: Controllable Chain-of-Thought Compression in LLMs** |   arXiv     | [link](https://arxiv.org/abs/2502.12067) |        [link](https://github.com/hemingkx/TokenSkip)     |
 | 2025.02 | **LightThinker: Thinking Step-by-Step Compression** |   arXiv     | [link](https://arxiv.org/abs/2502.15589) |        [link](https://github.com/zjunlp/LightThinker)      |
 | 2025.01 | **Kimi k1.5: Scaling Reinforcement Learning with LLMs** |   arXiv     | [link](https://arxiv.org/abs/2501.12599) |        -     
