@@ -6,6 +6,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.02 | **TokenSkip: Controllable Chain-of-Thought Compression in LLMs** |   arXiv     | [link](https://arxiv.org/abs/2502.12067) |        -     |
 | 2025.02 | **Reward-Guided Speculative Decoding for Efficient LLM Reasoning** |   arXiv     | [link](https://arxiv.org/pdf/2501.19324) |        [link](https://github.com/BaohaoLiao/RSD)      |
 | 2025.02 | **LightThinker: Thinking Step-by-Step Compression** |   arXiv     | [link](https://arxiv.org/abs/2502.15589) |        [link](https://github.com/zjunlp/LightThinker)      |
 | 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |
