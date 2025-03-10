@@ -1,7 +1,15 @@
-# Awesome-Long2short-on-LLMs
+# Awesome-Long2short-on-LRMs
 
-Awesome-Long2short-on-LLMs is a collection of state-of-the-art, novel, exciting long2short methods on Large reasoning models. It contains papers, codes, datasets, evaluations, and analyses.
+Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting long2short methods on **large reasoning models**. It contains papers, codes, datasets, evaluations, and analyses.
 
+## Training Free
+
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.02 | **LightThinker: Thinking Step-by-Step Compression** |   arXiv     | [link](https://arxiv.org/abs/2502.15589) |        [link](https://github.com/zjunlp/LightThinker)      |
+| 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |
+
+## Training Based
 
 
 
