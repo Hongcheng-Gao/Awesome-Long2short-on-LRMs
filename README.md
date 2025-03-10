@@ -6,6 +6,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | 2025.03 | **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning** | arXiv | [link](https://www.arxiv.org/pdf/2503.04697) | [link](https://github.com/cmu-l3/l1) |
+| 2025.02 | **Claude 3.7 Sonnet and Claude Code** | Anthropic | [link](https://www.anthropic.com/news/claude-3-7-sonnet) | - |
 | 2025.02 | **Self-Training Elicits Concise Reasoning in Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2502.20122) | [link](https://github.com/TergelMunkhbat/concise-reasoning) |
 | 2025.02 | **TokenSkip: Controllable Chain-of-Thought Compression in LLMs** |   arXiv     | [link](https://arxiv.org/abs/2502.12067) |        [link](https://github.com/hemingkx/TokenSkip)     |
 | 2025.02 | **LightThinker: Thinking Step-by-Step Compression** |   arXiv     | [link](https://arxiv.org/abs/2502.15589) |        [link](https://github.com/zjunlp/LightThinker)      |
