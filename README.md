@@ -11,6 +11,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2025.02 | **Self-Training Elicits Concise Reasoning in Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2502.20122) | [link](https://github.com/TergelMunkhbat/concise-reasoning) |
 | 2025.02 | **TokenSkip: Controllable Chain-of-Thought Compression in LLMs** |   arXiv     | [link](https://arxiv.org/abs/2502.12067) |        [link](https://github.com/hemingkx/TokenSkip)     |
 | 2025.02 | **LightThinker: Thinking Step-by-Step Compression** |   arXiv     | [link](https://arxiv.org/abs/2502.15589) |        [link](https://github.com/zjunlp/LightThinker)      |
+| 2025.02 | **s1: Simple test-time scaling** |   arXiv     | [link](https://arxiv.org/abs/2501.19393) |        [link](https://github.com/simplescaling/s1)     |
 | 2025.01 | **Kimi k1.5: Scaling Reinforcement Learning with LLMs** |   arXiv     | [link](https://arxiv.org/abs/2501.12599) |        -     
 | 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |
 
