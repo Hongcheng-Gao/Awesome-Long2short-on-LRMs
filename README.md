@@ -22,6 +22,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | 2025.03 | **How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach** | arXiv | [link](https://arxiv.org/abs/2503.01141) | [link](https://github.com/Compressed-CoT/compressed-cot) |
 | 2025.03 | **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching** | arXiv | [link](https://arxiv.org/pdf/2503.05179v1) | [link](https://github.com/SimonAytes/SoT) |
+| 2025.02 | **Meta-Reasoner: Dynamic Guidance for Optimized Inference-time Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/pdf/2502.19918) |        -      |
 | 2025.02 | **Chain of Draft: Thinking Faster by Writing Less** |   arXiv     | [link](https://arxiv.org/pdf/2502.18600) |        [link](https://github.com/sileix/chain-of-draft)      |
 | 2025.02 | **Reward-Guided Speculative Decoding for Efficient LLM Reasoning** |   arXiv     | [link](https://arxiv.org/pdf/2501.19324) |        [link](https://github.com/BaohaoLiao/RSD)      |
 | 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |
