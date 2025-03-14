@@ -5,6 +5,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 ## Training Based
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.03 | **Optimizing Test-Time Compute via Meta Reinforcement Finetuning** |   arXiv     | [link](https://arxiv.org/pdf/2503.07572) |        [link](https://github.com/CMU-AIRe/MRT)    |
 | 2025.03 | **InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/abs/2503.06692) |        -     |
 | 2025.03 | **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning** | arXiv | [link](https://www.arxiv.org/pdf/2503.04697) | [link](https://github.com/cmu-l3/l1) |
 | 2025.03 | **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test** | arXiv | [link](https://arxiv.org/pdf/2503.01840v1) | [link](https://github.com/SafeAILab/EAGLE) |
