@@ -30,6 +30,8 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2025.02 | **Reward-Guided Speculative Decoding for Efficient LLM Reasoning** |   arXiv     | [link](https://arxiv.org/pdf/2501.19324) |        [link](https://github.com/BaohaoLiao/RSD)      |
 | 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |
 | 2024.12 | **Efficiently Serving LLM Reasoning Programs with Certaindex** | arXiv | [link](https://arxiv.org/abs/2412.20993) | [link](https://github.com/hao-ai-lab/Dynasor) |
+| 2024.12 | **Bag of Tricks for Inference-time Computation of LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2502.07191) | [link](https://github.com/usail-hkust/benchmark_inference_time_computation_LLM) |
+
 
 
 
