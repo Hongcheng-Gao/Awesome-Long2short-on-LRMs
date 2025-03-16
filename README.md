@@ -8,6 +8,27 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 - [Latent Reasoning Compression](#latent-reasoning-compression)
 
 
+## Prompt guidance
+> Prompt guidance generally includes budget guidance and template guidance.
+
+| Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
+| ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |
+
+## Decoding strategy
+
+| Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
+| ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+## Latent compression
+
+| Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
+| ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+## Parameter modification
+> Parameter modification generally includes SFT/RL, model merging, model distillation and so on.
+
+| Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
+| ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+
 ## Training Based
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
