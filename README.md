@@ -56,6 +56,10 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 <a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="72" height="72"/></a> 
 <a href="https://github.com/ColorDavid" target="_blank"><img src="https://avatars.githubusercontent.com/u/57055043?v=4" alt="ColorDavid" width="72" height="72"/></a> 
 <a href="https://github.com/junming-yang" target="_blank"><img src="https://avatars.githubusercontent.com/u/60545459?v=4" alt="junming-yang" width="72" height="72"/></a> 
+<a href="https://github.com/yili-19" target="_blank"><img src="https://avatars.githubusercontent.com/u/61128160?v=4" alt="yili-19" width="72" height="72"/></a> 
+
+
+
 
 
 
