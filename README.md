@@ -1,9 +1,12 @@
 # Awesome-Long2short-on-LRMs
 
 Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting **long2short** methods on **large reasoning models**. It contains papers, codes, datasets, evaluations, and analyses.
-[TOC]
 
----
+**Content**
+- [Training Based](#training-based)
+- [Training Free](#training-free)
+- [Latent Reasoning Compression](#latent-reasoning-compression)
+
 
 ## Training Based
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
