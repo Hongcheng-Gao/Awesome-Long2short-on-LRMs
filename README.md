@@ -12,7 +12,6 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2025.02 | **Claude 3.7 Sonnet and Claude Code** | Anthropic | [link](https://www.anthropic.com/news/claude-3-7-sonnet) | - |
 | 2025.02 | **Self-Training Elicits Concise Reasoning in Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2502.20122) | [link](https://github.com/TergelMunkhbat/concise-reasoning) |
 | 2025.02 | **TokenSkip: Controllable Chain-of-Thought Compression in LLMs** |   arXiv     | [link](https://arxiv.org/abs/2502.12067) |        [link](https://github.com/hemingkx/TokenSkip)     |
-| 2025.02 | **LightThinker: Thinking Step-by-Step Compression** |   arXiv     | [link](https://arxiv.org/abs/2502.15589) |        [link](https://github.com/zjunlp/LightThinker)      |
 | 2025.02 | **s1: Simple test-time scaling** |   arXiv     | [link](https://arxiv.org/abs/2501.19393) |        [link](https://github.com/simplescaling/s1)     |
 | 2025.01 | **Kimi k1.5: Scaling Reinforcement Learning with LLMs** |   arXiv     | [link](https://arxiv.org/abs/2501.12599) |        -     
 | 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |
@@ -33,7 +32,14 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2024.12 | **Bag of Tricks for Inference-time Computation of LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2502.07191) | [link](https://github.com/usail-hkust/benchmark_inference_time_computation_LLM) |
 
 
-
+## Latent Reasoning Compression
+| Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
+| ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.02 | **LightThinker: Thinking Step-by-Step Compression** |   arXiv     | [link](https://arxiv.org/abs/2502.15589) |        [link](https://github.com/zjunlp/LightThinker)      |
+| 2025.02 | **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach** | arXiv | [link](https://arxiv.org/pdf/2502.05171) | [link](https://github.com/seal-rg/recurrent-pretraining) |
+| 2024.12 | **Training Large Language Model to Reason in a Continuous Latent Space** | arXiv | [link](https://arxiv.org/pdf/2412.06769v2) | [link](https://github.com/facebookresearch/coconut) |
+| 2024.12 | **Compressed Chain of Thought: Efficient Reasoning through Dense Representations** | arXiv | [link](https://arxiv.org/pdf/2412.13171) |    -   |
+| 2024.05 | **From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step** | arXiv | [link](https://arxiv.org/pdf/2405.14838) | [link](https://github.com/da03/internalize_cot_step_by_step) |
 
 
 
