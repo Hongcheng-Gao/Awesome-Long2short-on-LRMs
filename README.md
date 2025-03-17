@@ -18,6 +18,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2025.03 | **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching** | arXiv | [link](https://arxiv.org/pdf/2503.05179v1) | [link](https://github.com/SimonAytes/SoT) |
 | 2025.02 | **Meta-Reasoner: Dynamic Guidance for Optimized Inference-time Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/pdf/2502.19918) |        -      |
 | 2025.02 | **Chain of Draft: Thinking Faster by Writing Less** |   arXiv     | [link](https://arxiv.org/pdf/2502.18600) |        [link](https://github.com/sileix/chain-of-draft)      |
+| 2025.02 | **Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/abs/2502.13260) |        -      |
 | 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |
 | 2023.05 | **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models** |   arXiv     | [link](https://arxiv.org/abs/2305.10276) |        [link](https://github.com/hanxuhu/chain-of-symbol-planning)    |
 
@@ -26,7 +27,6 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | 2025.02 | **When More is Less: Understanding Chain-of-Thought Length in LLMs** |   arXiv     | [link](https://arxiv.org/abs/2502.07266) |        -    |
-| 2025.02 | **Reward-Guided Speculative Decoding for Efficient LLM Reasoning** |   arXiv     | [link](https://arxiv.org/pdf/2501.19324) |        [link](https://github.com/BaohaoLiao/RSD)      |
 | 2024.12 | **Efficiently Serving LLM Reasoning Programs with Certaindex** |   arXiv     | [link](https://arxiv.org/abs/2412.20993) |        [link](https://github.com/hao-ai-lab/Dynasor)    |
 
 
