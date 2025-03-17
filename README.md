@@ -20,6 +20,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2025.02 | **Chain of Draft: Thinking Faster by Writing Less** |   arXiv     | [link](https://arxiv.org/pdf/2502.18600) |        [link](https://github.com/sileix/chain-of-draft)      |
 | 2025.02 | **Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/abs/2502.13260) |        -      |
 | 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |
+| 2024.07 | **Concise Thoughts: Impact of Output Length on LLM Reasoning and Cost** | arXiv | [link](https://arxiv.org/abs/2407.19825) | - |
 | 2023.05 | **Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models** |   arXiv     | [link](https://arxiv.org/abs/2305.10276) |        [link](https://github.com/hanxuhu/chain-of-symbol-planning)    |
 
 ## Decoding Strategy
@@ -37,6 +38,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2025.02 | **LightThinker: Thinking Step-by-Step Compression** |   arXiv     | [link](https://arxiv.org/abs/2502.15589) |        [link](https://github.com/zjunlp/LightThinker)      |
 | 2025.02 | **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach** | arXiv | [link](https://arxiv.org/pdf/2502.05171) | [link](https://github.com/seal-rg/recurrent-pretraining) |
 | 2025.02 | **Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning** | arXiv | [link](https://arxiv.org/abs/2502.03275) | - |
+| 2025.01 | **Efficient Reasoning with Hidden Thinking** | arXiv | [link](https://arxiv.org/abs/2501.19201) | - |
 | 2024.12 | **Training Large Language Model to Reason in a Continuous Latent Space** | arXiv | [link](https://arxiv.org/pdf/2412.06769v2) | [link](https://github.com/facebookresearch/coconut) |
 | 2024.12 | **Compressed Chain of Thought: Efficient Reasoning through Dense Representations** | arXiv | [link](https://arxiv.org/pdf/2412.13171) |    -   |
 | 2024.05 | **From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step** | arXiv | [link](https://arxiv.org/pdf/2405.14838) | [link](https://github.com/da03/internalize_cot_step_by_step) |
@@ -50,6 +52,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | 2025.03 | **Optimizing Test-Time Compute via Meta Reinforcement Finetuning** |   arXiv     | [link](https://arxiv.org/pdf/2503.07572) |        [link](https://github.com/CMU-AIRe/MRT)    |
+| 2025.03 | **DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models** |   arXiv     | [link](https://arxiv.org/abs/2503.04472) |        -    |
 | 2025.03 | **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning** | arXiv | [link](https://www.arxiv.org/pdf/2503.04697) | [link](https://github.com/cmu-l3/l1) |
 | 2025.03 | **InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/abs/2503.06692) |        -     |
 | 2025.03 | **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test** | arXiv | [link](https://arxiv.org/pdf/2503.01840v1) | [link](https://github.com/SafeAILab/EAGLE) |
@@ -62,9 +65,9 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2025.02 | **Claude 3.7 Sonnet and Claude Code** | Anthropic | [link](https://www.anthropic.com/news/claude-3-7-sonnet) | - |
 | 2025.01 | **Kimi k1.5: Scaling Reinforcement Learning with LLMs** |   arXiv     | [link](https://arxiv.org/abs/2501.12599) |        -     |
 | 2025.01 | **O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning** |   arXiv     | [link](https://arxiv.org/abs/2501.12570) |        [link](https://github.com/StarDewXXX/O1-Pruner)     |
-| 2023.10 | **Think before you speak: Training Language Models With Pause Tokens** |   arXiv     | [link](https://arxiv.org/abs/2310.02226v3) |        -     |
 | 2024.12 | **C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness** | arXiv | [link](https://arxiv.org/abs/2412.11664) | - |
 | 2024.11 | **Can Language Models Learn to Skip Steps?** | arXiv | [link](https://arxiv.org/abs/2411.01855) | [link](https://github.com/tengxiaoliu/LM_skip) |
+| 2023.10 | **Think before you speak: Training Language Models With Pause Tokens** |   arXiv     | [link](https://arxiv.org/abs/2310.02226v3) |        -     |
 
 ## Others
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
