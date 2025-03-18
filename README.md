@@ -35,6 +35,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 ## Latent Compression
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.02 | **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation** |   arXiv     | [link](https://arxiv.org/pdf/2502.21074) |        -      |
 | 2025.02 | **LightThinker: Thinking Step-by-Step Compression** |   arXiv     | [link](https://arxiv.org/abs/2502.15589) |        [link](https://github.com/zjunlp/LightThinker)      |
 | 2025.02 | **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach** | arXiv | [link](https://arxiv.org/pdf/2502.05171) | [link](https://github.com/seal-rg/recurrent-pretraining) |
 | 2025.02 | **Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning** | arXiv | [link](https://arxiv.org/abs/2502.03275) | - |
@@ -51,7 +52,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
-| 2025.03 | **DAPO: an Open-source RL System from ByteDance Seed and Tsinghua AIR** |   arXiv     | [link](https://dapo-sia.github.io/static/pdf/dapo_paper.pdf) |   [link](https://github.com/BytedTsinghua-SIA/DAPO?tab=readme-ov-file)    |
+| 2025.03 | **DAPO: an Open-source RL System from ByteDance Seed and Tsinghua AIR** |   arXiv     | [link](https://dapo-sia.github.io/static/pdf/dapo_paper.pdf) |   [link](https://github.com/volcengine/verl/tree/gm-tyx/puffin/main/recipe/dapo)    |
 | 2025.03 | **Optimizing Test-Time Compute via Meta Reinforcement Finetuning** |   arXiv     | [link](https://arxiv.org/pdf/2503.07572) |        [link](https://github.com/CMU-AIRe/MRT)    |
 | 2025.03 | **DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models** |   arXiv     | [link](https://arxiv.org/abs/2503.04472) |        -    |
 | 2025.03 | **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning** | arXiv | [link](https://www.arxiv.org/pdf/2503.04697) | [link](https://github.com/cmu-l3/l1) |
