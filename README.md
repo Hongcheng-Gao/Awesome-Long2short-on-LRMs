@@ -51,6 +51,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.03 | **DAPO: an Open-source RL System from ByteDance Seed and Tsinghua AIR** |   arXiv     | [link](https://dapo-sia.github.io/static/pdf/dapo_paper.pdf) |   [link](https://github.com/BytedTsinghua-SIA/DAPO?tab=readme-ov-file)    |
 | 2025.03 | **Optimizing Test-Time Compute via Meta Reinforcement Finetuning** |   arXiv     | [link](https://arxiv.org/pdf/2503.07572) |        [link](https://github.com/CMU-AIRe/MRT)    |
 | 2025.03 | **DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models** |   arXiv     | [link](https://arxiv.org/abs/2503.04472) |        -    |
 | 2025.03 | **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning** | arXiv | [link](https://www.arxiv.org/pdf/2503.04697) | [link](https://github.com/cmu-l3/l1) |
