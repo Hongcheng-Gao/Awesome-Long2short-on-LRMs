@@ -44,6 +44,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2024.12 | **Compressed Chain of Thought: Efficient Reasoning through Dense Representations** | arXiv | [link](https://arxiv.org/pdf/2412.13171) |    -   |
 | 2024.05 | **From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step** | arXiv | [link](https://arxiv.org/pdf/2405.14838) | [link](https://github.com/da03/internalize_cot_step_by_step) |
 | 2024.03 | **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking** | arXiv | [link](https://arxiv.org/abs/2403.09629) | [link](https://github.com/ezelikman/quiet-star) |
+| 2023.10 | **Think before you speak: Training Language Models With Pause Tokens** |   arXiv     | [link](https://arxiv.org/abs/2310.02226v3) |        -     |
 
 
 
@@ -69,7 +70,6 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2025.01 | **O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning** |   arXiv     | [link](https://arxiv.org/abs/2501.12570) |        [link](https://github.com/StarDewXXX/O1-Pruner)     |
 | 2024.12 | **C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness** | arXiv | [link](https://arxiv.org/abs/2412.11664) | - |
 | 2024.11 | **Can Language Models Learn to Skip Steps?** | arXiv | [link](https://arxiv.org/abs/2411.01855) | [link](https://github.com/tengxiaoliu/LM_skip) |
-| 2023.10 | **Think before you speak: Training Language Models With Pause Tokens** |   arXiv     | [link](https://arxiv.org/abs/2310.02226v3) |        -     |
 
 ## Others
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
