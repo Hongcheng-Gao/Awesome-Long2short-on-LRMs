@@ -28,6 +28,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | 2025.02 | **When More is Less: Understanding Chain-of-Thought Length in LLMs** |   arXiv     | [link](https://arxiv.org/abs/2502.07266) |        -    |
+| 2025.02 | **Stepwise Informativeness Search for Improving LLM Reasoning** |   arXiv     | [link](https://arxiv.org/abs/2502.15335) |        [link](https://github.com/SiyuanWangw/Informativeness-Search)    |
 | 2024.12 | **Efficiently Serving LLM Reasoning Programs with Certaindex** |   arXiv     | [link](https://arxiv.org/abs/2412.20993) |        [link](https://github.com/hao-ai-lab/Dynasor)    |
 
 
@@ -67,8 +68,10 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2025.02 | **Training Language Models to Reason Efficiently** |   arXiv     | [link](https://arxiv.org/abs/2502.04463) |        [link](https://github.com/Zanette-Labs/efficient-reasoning)     |
 | 2025.02 | **Claude 3.7 Sonnet and Claude Code** | Anthropic | [link](https://www.anthropic.com/news/claude-3-7-sonnet) | - |
 | 2025.01 | **Kimi k1.5: Scaling Reinforcement Learning with LLMs** |   arXiv     | [link](https://arxiv.org/abs/2501.12599) |        -     |
+| 2025.01 | **Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization** |   arXiv     | [link](https://arxiv.org/abs/2501.17974) |        -     |
 | 2025.01 | **O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning** |   arXiv     | [link](https://arxiv.org/abs/2501.12570) |        [link](https://github.com/StarDewXXX/O1-Pruner)     |
 | 2024.12 | **C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness** | arXiv | [link](https://arxiv.org/abs/2412.11664) | - |
+| 2024.12 | **Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria** | arXiv | [link](https://arxiv.org/abs/2412.21006) | - |
 | 2024.11 | **Can Language Models Learn to Skip Steps?** | arXiv | [link](https://arxiv.org/abs/2411.01855) | [link](https://github.com/tengxiaoliu/LM_skip) |
 
 ## Others
