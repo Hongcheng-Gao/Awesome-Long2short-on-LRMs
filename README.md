@@ -77,6 +77,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 ## Others
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.03 | **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond** | arXiv | [link](https://arxiv.org/abs/2503.21614) | [link](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) |
 | 2024.12 | **Bag of Tricks for Inference-time Computation of LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2502.07191) | [link](https://github.com/usail-hkust/benchmark_inference_time_computation_LLM) |
 
 
