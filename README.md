@@ -59,7 +59,6 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | 2025.03 | **DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models** |   arXiv     | [link](https://arxiv.org/abs/2503.04472) |        -    |
 | 2025.03 | **L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning** | arXiv | [link](https://www.arxiv.org/pdf/2503.04697) | [link](https://github.com/cmu-l3/l1) |
 | 2025.03 | **InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/abs/2503.06692) |        -     |
-| 2025.03 | **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test** | arXiv | [link](https://arxiv.org/pdf/2503.01840v1) | [link](https://github.com/SafeAILab/EAGLE) |
 | 2025.02 | **Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs** |   arXiv     | [link](https://arxiv.org/abs/2412.21187) |        -    |
 | 2025.02 | **Self-Training Elicits Concise Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/abs/2502.20122) |        [link](https://github.com/TergelMunkhbat/concise-reasoning)    |
 | 2025.02 | **TokenSkip: Controllable Chain-of-Thought Compression in LLMs** |   arXiv     | [link](https://arxiv.org/abs/2502.12067) |        [link](https://github.com/hemingkx/TokenSkip)     |
@@ -78,8 +77,9 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
 | 2025.03 | **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond** | arXiv | [link](https://arxiv.org/abs/2503.21614) | [link](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) |
+| 2025.03 | **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test** | arXiv | [link](https://arxiv.org/pdf/2503.01840v1) | [link](https://github.com/SafeAILab/EAGLE) |
+| 2025.02 | **LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification** | arXiv | [link](https://arxiv.org/pdf/2502.17421) | [link](https://github.com/sail-sg/LongSpec) |
 | 2024.12 | **Bag of Tricks for Inference-time Computation of LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2502.07191) | [link](https://github.com/usail-hkust/benchmark_inference_time_computation_LLM) |
-
 
 
 
