@@ -167,7 +167,7 @@ Latent space compression replaces reasoning token with latent space, allowing mo
 
 
 ### Model Merge
-> typically merge the parameters of two models with different reasoning styles to obtain an LRMs with inclusion of different reasoning styles.
+> Model merge based methods typically merge the parameters of two models with different reasoning styles to obtain an LRMs with inclusion of different reasoning styles.
 
 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
