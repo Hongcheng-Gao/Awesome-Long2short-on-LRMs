@@ -182,6 +182,7 @@ Latent space compression replaces reasoning token with latent space, allowing mo
 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.04 | **Efficient Reasoning Models: A Survey** | arXiv | [link](https://arxiv.org/pdf/2504.10903v1) | [link](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) |
 | 2025.03 | **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond** | arXiv | [link](https://arxiv.org/abs/2503.21614) | [link](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) |
 | 2025.03 | **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2503.16419v2) | [link](https://github.com/mapuna/Reasoning-LLMs) |
 
