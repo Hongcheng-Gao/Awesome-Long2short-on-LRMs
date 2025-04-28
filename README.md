@@ -77,6 +77,7 @@ Latent space compression replaces reasoning token with latent space, allowing mo
 | 2025.01 | **Efficient Reasoning with Hidden Thinking** | arXiv | [link](https://arxiv.org/abs/2501.19201) | - |
 | 2024.12 | **Training Large Language Model to Reason in a Continuous Latent Space** | arXiv | [link](https://arxiv.org/pdf/2412.06769v2) | [link](https://github.com/facebookresearch/coconut) |
 | 2024.12 | **Compressed Chain of Thought: Efficient Reasoning through Dense Representations** | arXiv | [link](https://arxiv.org/pdf/2412.13171) |    -   |
+| 2024.09 | **Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding** | arXiv | [link](https://arxiv.org/pdf/2409.08561) |    -   |
 | 2024.05 | **From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step** | arXiv | [link](https://arxiv.org/pdf/2405.14838) | [link](https://github.com/da03/internalize_cot_step_by_step) |
 | 2024.03 | **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking** | arXiv | [link](https://arxiv.org/abs/2403.09629) | [link](https://github.com/ezelikman/quiet-star) |
 | 2023.10 | **Think before you speak: Training Language Models With Pause Tokens** |   arXiv     | [link](https://arxiv.org/abs/2310.02226v3) |        -     |
