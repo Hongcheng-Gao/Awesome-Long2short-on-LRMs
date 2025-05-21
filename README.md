@@ -151,6 +151,7 @@ Latent space compression replaces reasoning token with latent space, allowing mo
 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.05 | **Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning** | arxiv | [link](https://arxiv.org/abs/2505.14582) | - |
 | 2025.03 | **InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/abs/2503.06692) |        -     |
 | 2025.02 | **Self-Training Elicits Concise Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/abs/2502.20122) |        [link](https://github.com/TergelMunkhbat/concise-reasoning)    |
 | 2025.02 | **TokenSkip: Controllable Chain-of-Thought Compression in LLMs** |   arXiv     | [link](https://arxiv.org/abs/2502.12067) |        [link](https://github.com/hemingkx/TokenSkip)     |
@@ -160,7 +161,8 @@ Latent space compression replaces reasoning token with latent space, allowing mo
 | 2024.12 | **C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness** | arXiv | [link](https://arxiv.org/abs/2412.11664) | - |
 | 2024.12 | **Verbosity-Aware Rationale Reduction: Effective Reduction of Redundant Rationale via Principled Criteria** | arXiv | [link](https://arxiv.org/abs/2412.21006) | - |
 | 2024.12 | **Token-Budget-Aware LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2412.18547) | [link](https://github.com/GeniusHTX/TALE) |
-| 2024.11 | **Can Language Models Learn to Skip Steps?** | arXiv | [link](https://arxiv.org/abs/2411.01855) | [link](https://github.com/tengxiaoliu/LM_skip) |
+| 2024.11 | **Can Language Models Learn to Skip Steps?** | arXiv | [link](https://arxiv.org/abs/2411.01855) | [link](https://github.com/tengxiaoliu/LM_skip) | 
+
 
 
 
