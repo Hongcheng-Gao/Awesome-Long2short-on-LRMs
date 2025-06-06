@@ -194,6 +194,7 @@ Latent space compression replaces reasoning token with latent space, allowing mo
 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.06 | **Accelerated Test-Time Scaling with Model-Free Speculative Sampling** | arXiv | [link](https://arxiv.org/abs/2506.04708) | - |
 | 2025.03 | **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test** | arXiv | [link](https://arxiv.org/pdf/2503.01840v1) | [link](https://github.com/SafeAILab/EAGLE) |
 | 2025.02 | **LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification** | arXiv | [link](https://arxiv.org/pdf/2502.17421) | [link](https://github.com/sail-sg/LongSpec) |
 | 2024.12 | **Bag of Tricks for Inference-time Computation of LLM Reasoning** | arXiv | [link](https://arxiv.org/abs/2502.07191) | [link](https://github.com/usail-hkust/benchmark_inference_time_computation_LLM) |
