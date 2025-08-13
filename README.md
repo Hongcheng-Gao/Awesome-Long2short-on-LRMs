@@ -151,6 +151,7 @@ Latent space compression replaces reasoning token with latent space, allowing mo
 
 | Time | Title                                                      |  Venue  |                           Paper                            |                            Code                            |
 | ---- | -------------------------------------------------------- | :-----: | :-------------------------------------------------------: | :-------------------------------------------------------: |
+| 2025.08 | **Pruning the Unsurprising: Efficient Code Reasoning via First-Token Surprisal** | arxiv | [link](https://arxiv.org/abs/2508.05988) | [link](https://github.com/Zengwh02/ASAP) |
 | 2025.05 | **Can Pruning Improve Reasoning? Revisiting Long-CoT Compression with Capability in Mind for Better Reasoning** | arxiv | [link](https://arxiv.org/abs/2505.14582) | - |
 | 2025.03 | **InftyThink: Breaking the Length Limits of Long-Context Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/abs/2503.06692) |        -     |
 | 2025.02 | **Self-Training Elicits Concise Reasoning in Large Language Models** |   arXiv     | [link](https://arxiv.org/abs/2502.20122) |        [link](https://github.com/TergelMunkhbat/concise-reasoning)    |
