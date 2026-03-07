@@ -4,12 +4,12 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 
 **Content**
 **Content**
-- [Length-Aware Guidance](#length-aware-guidance)
+- [Explicit Length Guidance](#length-aware-guidance)
   - [Prompt Guidance](#prompt-guidance)
     - [Active Prompt Guidance](#active-prompt-guidance)
     - [Passive Prompt Guidance](#passive-prompt-guidance)
   - [Reward Guidance](#reward-guidance)
-- [Length-Agnostic Optimization](#length-agnostic-optimization)
+- [Implicit Length Optimization](#length-agnostic-optimization)
   - [Latent Space Compression](#latent-space-compression)
   - [Routing Strategy](#routing-strategy)
     - [Template Routing](#template-routing)
@@ -23,7 +23,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 - [Survey](#survey)
 - [Others](#others)
 
-## Length-Aware Guidance
+## Explicit Length Guidance
 
 
 ### Prompt Guidance
@@ -63,7 +63,7 @@ Awesome-Long2short-on-LRMs is a collection of state-of-the-art, novel, exciting 
 
 
 
-## Length-Agnostic Optimization
+## Implicit Length Optimization
 
 ### Latent Space Compression
 Latent space compression replaces reasoning token with latent space, allowing more flexible and efficient reasoning for LRMs.
